@@ -3,7 +3,7 @@
     "active": true,
     "from": {
       "name": "YOUR_TEST_FROM_NAME",
-      "email": "info@example.com"
+      "email": "info@example.com" feffwe
     },
     "to": {
       "name": "YOUR_TEST_TO_NAME",
